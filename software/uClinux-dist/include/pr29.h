@@ -1,1 +1,0 @@
-/home/psampaio/Develop/plak1a/software/uClinux-dist/lib/libidn/lib/pr29.h

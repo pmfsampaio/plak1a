@@ -1,1 +1,0 @@
-/home/psampaio/Develop/plak1a/software/uClinux-dist/user/tinytcl/regex_compat.h

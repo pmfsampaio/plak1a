@@ -1,1 +1,0 @@
-/home/psampaio/Develop/plak1a/software/uClinux-dist/lib/STLport/stlport/stl_user_config.h
