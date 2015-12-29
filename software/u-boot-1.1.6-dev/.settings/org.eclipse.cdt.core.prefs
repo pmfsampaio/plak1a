@@ -1,0 +1,3 @@
+#Sat Oct 17 17:08:57 WEST 2009
+eclipse.preferences.version=1
+environment/project/org.eclipse.cdt.cross.arm.gnu.linux.toolchain.base.378436188=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<environment append\="true" appendContributed\="true">\n<variable delimiter\=";" name\="CROSS_COMPILE" operation\="append" value\="arm-elf-"/>\n</environment>\n

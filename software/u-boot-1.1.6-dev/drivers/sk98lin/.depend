@@ -1,0 +1,87 @@
+skge.o: skge.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skaddr.o: skaddr.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skgehwt.o: skgehwt.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skgeinit.o: skgeinit.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skgepnmi.o: skgepnmi.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skgesirq.o: skgesirq.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+ski2c.o: ski2c.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+sklm80.o: sklm80.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skqueue.o: skqueue.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skrlmt.o: skrlmt.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+sktimer.o: sktimer.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skvpd.o: skvpd.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skxmac2.o: skxmac2.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+skcsum.o: skcsum.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+uboot_skb.o: uboot_skb.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h
+uboot_drv.o: uboot_drv.c \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/common.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/configs/lpc2294.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/cmd_confdefs.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/linux/bitops.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/bitops.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/linux/types.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/linux/config.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/linux/posix_types.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/linux/stddef.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/posix_types.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/types.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/linux/string.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/string.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/ptrace.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/proc/ptrace.h \
+  /usr/local/cross/arm-elf/bin/../lib/gcc/arm-elf/4.3.2/include/stdarg.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/part.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/ide.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/flash.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/image.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/u-boot.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/global_data.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/mach-types.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/setup.h \
+  /home/psampaio/Develop/plak1a/software/u-boot-1.1.6-dev/include/asm/u-boot-arm.h

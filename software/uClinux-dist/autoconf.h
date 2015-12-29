@@ -1,0 +1,18 @@
+/*
+ * Automatically generated C config: don't edit
+ * Dist builder
+ * Fri Dec 11 12:10:22 2009
+ */
+#define AUTOCONF_INCLUDED
+#define CONFIG_DEFAULTS_PHILIPS_LPC22XX 1
+#define CONFIG_DISTVERSION "4.0"
+#define CONFIG_DEFAULTS_KERNEL 1
+#define CONFIG_DEFAULTS_KERNEL_2_6 1
+#define CONFIG_DEFAULTS_PHILIPS 1
+#define CONFIG_DEFAULTS_LIBC_UCLIBC 1
+#define CONFIG_VENDOR "Philips"
+#define CONFIG_PRODUCT "LPC22xx"
+#define CONFIG_LINUXDIR "linux-2.6.x"
+#define CONFIG_LIBCDIR "uClibc"
+#define VENDORS_AUTOCONF_INCLUDED
+#undef AUTOCONF_INCLUDED

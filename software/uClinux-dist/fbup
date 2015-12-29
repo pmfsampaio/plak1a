@@ -1,0 +1,9 @@
+#!/bin/sh
+
+sudo mount -o loop images/romfs.img  ~/tmp
+sudo rm /home/psampaio/Develop/plak1a/software/nfsroot/bin/fbtest
+ls /home/psampaio/Develop/plak1a/software/nfsroot/bin 
+sudo rsync -arD ~/tmp/bin/fbtest /home/psampaio/Develop/plak1a/software/nfsroot/bin/fbtest
+sudo umount /home/psampaio/tmp/
+ls -la ../nfsroot/bin
+

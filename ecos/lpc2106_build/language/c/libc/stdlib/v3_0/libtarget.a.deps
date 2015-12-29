@@ -1,0 +1,251 @@
+src/abs.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/abs.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h
+src/atox.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/atox.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h
+src/bsearch.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/bsearch.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl
+src/div.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/div.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h
+src/getenv.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/getenv.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/string.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/strerror.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/error.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/codes.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/string/string.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_string.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/string/string.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/string/bsdstring.h
+src/qsort.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/qsort.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl
+src/rand.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/rand.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl
+src/strtod.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/strtod.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/ctype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/i18n/ctype.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_i18n.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/float.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/float.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/math.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libm.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/sys/ieeefp.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/codes.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/error.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/errno.h
+src/strtol.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/strtol.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include-fixed/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/ctype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/i18n/ctype.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_i18n.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/codes.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/error.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl
+src/strtoul.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/strtoul.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include-fixed/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/ctype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/i18n/ctype.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_i18n.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/codes.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/error.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl
+src/system.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/system.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl
+src/strtoll.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/strtoll.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include-fixed/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/ctype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/i18n/ctype.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_i18n.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/codes.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/error.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl
+src/strtoull.o.d:  \
+ /home/psampaio/Develop/ecos/ecos-3.0/packages/language/c/libc/stdlib/v3_0/src/strtoull.cxx \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_type.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stddef.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include/stddef.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/hal/basetype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_trac.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/infra.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/system.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/infra/cyg_ass.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/isoinfra.h \
+  /home/psampaio/Develop/ecos/gnutools/arm-eabi/bin/../lib/gcc/arm-eabi/4.3.2/include-fixed/limits.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/ctype.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/i18n/ctype.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/libc_i18n.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/codes.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/pkgconf/error.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/error/errno.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/stdlib.h \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/atox.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/abs.inl \
+  /home/psampaio/Develop/plak1a/ecos/lpc2106_install/include/cyg/libc/stdlib/div.inl

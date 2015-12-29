@@ -1,0 +1,4 @@
+OLD_VENDOR="Philips"
+OLD_PRODUCT="LPC22xx"
+OLD_LINUXDIR="linux-2.6.x"
+OLD_LIBCDIR="uClibc"
